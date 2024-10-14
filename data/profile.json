@@ -22,14 +22,29 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto Wiki do Github",
+      "url": "https://github.com/weslleytr/projeto-wiki-github",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto Gitfind",
+      "url": "https://github.com/weslleytr/projeto-gitfind",
       "github": true
+    },
+    {
+      "name": "Projeto Login",
+      "url": "https://github.com/weslleytr/projeto-login",
+      "github": true
+    },
+    {
+      "name": "Projeto Android",
+      "url": "https://github.com/weslleytr/projeto-android",
+      "github": true
+    },
+    {
+      "name": "Para ver mais, acesse meu perfil do Github",
+      "url": "https://github.com/weslleytr/",
+      "github": false
     }
   ],
   "professionalExperience": [
